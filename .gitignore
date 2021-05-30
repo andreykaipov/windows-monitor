@@ -1,2 +1,3 @@
 data
-programs
+programs/*/*
+!programs/*/.gitkeep
